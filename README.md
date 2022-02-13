@@ -12,6 +12,19 @@ To use chatbot
 
 # Team members 
 1) Aditya Garg
-2) Pawani 
-3) Awantika
+2) Pawani Karuturi
+3) Awantika Mallick
 4) Naresh Chandanbatve
+
+# Live Site
+ https://htl-team.github.io/Chat-Bot/
+ 
+# youtube link 
+https://www.youtube.com/watch?v=irWUtcSPYqw
+
+# Teck Used
+1) Azure
+2) HTML
+3) CSS
+4) JavaScript
+5) sawo auth
