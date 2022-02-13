@@ -2,7 +2,7 @@
 
 welocme to chat bot 
 
-to use chatbot 
+To use chatbot 
 1) got to environment tab.
 2) click on github pages.
 3) click on the latest deployment.
