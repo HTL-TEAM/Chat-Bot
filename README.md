@@ -1,6 +1,6 @@
 # Chat-Bot
 
-welocme to chat bot 
+welcome to chat bot 
 
 To use chatbot 
 1) got to environment tab.
